@@ -3,3 +3,5 @@
 .github/
 .gitmodules
 .rsync-exclude
+LICENSE.md
+README.md
